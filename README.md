@@ -1,4 +1,4 @@
-# DevOps Interview Preparation
+# DevOps Interview Preparation Guide
 
 ## Introduction
 
@@ -7,6 +7,21 @@ Welcome to the DevOps Interview Preparation repository! This repository aims to 
 ## Goal and Aim
 
 The goal of this repository is to create a common point of reference where DevOps aspirants can find interview questions, experiences, and scenario-based questions and answers from various companies and roles. We aim to foster a supportive and engaging community that helps individuals in their journey to becoming successful DevOps professionals.
+
+
+## Folder Structure
+
+The repository is organized into folders based on different DevOps categories:
+
+- DevOps with AWS
+- DevOps with Azure
+- DevOps with GCP
+- DevOps without Cloud
+- DevOps with SRE
+
+## Code of Conduct
+
+To maintain a friendly and inclusive environment, we have established a [Code of Conduct](CODE_OF_CONDUCT.md). We expect all contributors and users to adhere to these guidelines while participating in discussions and contributing to the repository.
 
 ## How to Contribute
 
@@ -26,19 +41,6 @@ We encourage contributions from everyone in the DevOps community. If you've rece
 
 For complete details about contributing, please refer [CONTRIBUTING.md](CONTRIBUTING.md)
 
-## Folder Structure
-
-The repository is organized into folders based on different DevOps categories:
-
-- DevOps with AWS
-- DevOps with Azure
-- DevOps with GCP
-- DevOps without Cloud
-- DevOps with SRE
-
-## Code of Conduct
-
-To maintain a friendly and inclusive environment, we have established a [Code of Conduct](CODE_OF_CONDUCT.md). We expect all contributors and users to adhere to these guidelines while participating in discussions and contributing to the repository.
 
 ## License
 

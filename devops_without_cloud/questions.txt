@@ -1,0 +1,110 @@
+    Ansible jinja template
+    Jenkins pipeline linking with SonarQube
+    SonarQube setup
+    Groovy script in Jenkins and running it
+    Ansible
+    EC2 Instance creation using Ansible
+    Recommending the right tools to the client
+    Dockerfile usage for creating custom images
+    Process of DevOps
+    Kubernetes setup
+    Helm chart
+    Cloud infrastructure
+    Install Kubernetes
+    Kubernetes cluster setup
+    Web-based deployment in JFrog Tomcat Artifactory
+
+Prometheus, Grafana, Logging:
+
+    Logging in Prometheus and Grafana
+
+Git and Version Control:
+
+    Git stash
+    Merging all commits to the main branch via one command
+    Git clone and git remote
+    Git stash drop
+    List of files changes in a particular commit
+    Git diff free -or #
+    How to fix a broken commit
+    How to check the history of merged branches
+
+Jenkins and CI/CD:
+
+    How to Run Jenkins
+    Automated tests in Jenkins
+    Pipeline failure and how to deal with it
+    Agent Directive in Jenkins
+    Restart Jenkins manually
+    Types of Pipelines in Jenkins
+    If you don't mention an agent in a scripted pipeline, what will happen to the job?
+    How to execute declarative pipeline
+    Groovy Sandbox use
+
+Docker and Containerization:
+
+    Docker swarm
+    Docker namespace
+    Base image changing and committing to form a new image
+    Docker system
+    Can a container restart by itself?
+    How to start a container every time we log in
+    Can you delete a paused container?
+
+Kubernetes:
+
+    Kubernetes architecture
+    What is Kube proxy
+    Basic elements in Kubernetes
+    How do you check the log of pods for troubleshooting purposes?
+    Kube Proxy is down. What will be the effect?
+    Types of Services in Kubernetes
+    Controller function in Kubernetes
+    Persistent volume
+    Stateful set
+    Headless service
+
+AWS and Cloud Infrastructure:
+
+    Merging my corporate data center to AWS
+    Private IP Address in VPC
+    Subnets in AWS
+    Best practices of EC2 Instances
+    EC2 failure-prone: which kind of instance to build
+    EC2 -create -group securitygroup: What does this command do?
+    Horizontal auto-scaling
+    Removing pods
+    Removing nodes
+    User base in India and the US: where should the data be stored?
+    Lost the private key, how will you get it back?
+    Security group in AWS
+
+Linux and System Administration:
+
+    Soft and Hard link difference
+    Significance or use of inode
+    How to check files older than 20 days
+    How to check open ports in Linux
+    Check the total number of inodes
+    What does the df command do?
+    What are the types of files in Linux?
+    How to check open ports
+    Default Network types in Docker - Have you heard about bridge host?
+    How to check container logs
+    How to check open ports
+    Docker port command
+    Docker system prune
+
+Miscellaneous:
+
+    How do you define the pipeline?
+    Which pipeline do you use: Scripted or declarative?
+    Are you using JFrog for Artifactory storage?
+    How do you create the deployment?
+    How do you check if the previous command is successful or not?
+    I am executing some command, how will I know if the command I executed is successful or not?
+    What is etcd's purpose?
+    While executing a bash script, I am passing F1.sh 1 2 3 4 5. Within the script, I want to read the parameters.
+    How Prometheus works and what are the key components in Prometheus?
+    How do you take your jar file from Artifactory?
+    How do you deploy the application? What is the purpose? Step by step deployment.

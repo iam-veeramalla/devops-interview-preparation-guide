@@ -108,3 +108,28 @@ Miscellaneous:
     How Prometheus works and what are the key components in Prometheus?
     How do you take your jar file from Artifactory?
     How do you deploy the application? What is the purpose? Step by step deployment.
+
+Terraform:
+1. You have created 80 resources and you want to delete 10 resources out of it so how you can do that?
+2. what is the difference between desired state configuration and  current state configuration in terraform ?
+3. How does terraform actually work in background like how my terraform interacts with cloud?
+4. Can I have multiple providers in same environment?
+5. How my terraform get to know like what I should run to inform terraform that I'm trying to connect azure cloud are aws cloud  
+6. What happens when terraform init do?
+7. Is it possible ENABLE Logging in terraform?
+8. What are the Log Levels we have in Terraform ?
+9. You have 80 resources and by running terraform apply and how many resources can be created at a time? Or it will creates in sequential order and in which sequential order it follow.
+10. How many dependencies we have in terraform.
+11. How can you define dependency in explicit?
+12.  Have you worked on terraform lifecycles on resources?
+13. What is splat expressions in Terraform?
+14. Lets suppose, I have 4 or 5 modules with me and I am calling one modules output inside. I mean content inside another module. For example you have create one network and then I am deploying something inside that network. So I need the networks entire information before I apply the second module. So how can I fetch both information from first module.
+15. You don't want to Delete 10 resources from the 80 resources and delete the other 70 resources. How you will delete
+
+Ansible:
+1. How many inventories are there in Ansible
+2. What is variable precedence order for ansible?
+3. What are handlers in ansible? What is the use
+
+
+
